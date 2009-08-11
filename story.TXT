@@ -1,0 +1,14 @@
+do not require them
+move
+add again  
+
+test on 2009/8/4
+dsa
+<<<<<<< HEAD:story.TXT
+
+
+=======
+ rabit meets a bear in the woods.    
+The bear says to the rabbit, "Do you have problem with poop sticking to your fur?"  
+ 
+>>>>>>> NewBranch:story.TXT
